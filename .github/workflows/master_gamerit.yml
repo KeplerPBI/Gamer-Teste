@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'GamerIT'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8FE5C424A88747318EF449C43BAFE7DA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1E18966BD8CA41259B1D662D442F6159 }}
