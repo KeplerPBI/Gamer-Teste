@@ -28,7 +28,7 @@ jobs:
           source venv/bin/activate
       
       - name: Install dependencies
-        run: pip3 install -r /home/runner/work/GamerIT-Teste/GamerIT-Teste/Teste/requirements.txt
+        run: pip3 install -r /home/runner/work/Gamer-Teste/Gamer-Teste/Teste/requirements.txt
         
       # Optional: Add step to run tests here (PyTest, Django test suites, etc.)
       
